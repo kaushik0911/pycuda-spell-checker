@@ -1,0 +1,109 @@
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: insert, replace
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "C:\Anaconda2\lib\site-packages\spyderlib\widgets\externalshell\sitecustomize.py", line 714, in runfile
+    execfile(filename, namespace)
+  File "C:\Anaconda2\lib\site-packages\spyderlib\widgets\externalshell\sitecustomize.py", line 74, in execfile
+    exec(compile(scripttext, filename, 'exec'), glob, loc)
+  File "C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py", line 107, in <module>
+    final('slit')
+  File "C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py", line 101, in final
+    if return_value[1] > max_value:
+TypeError: 'NoneType' object has no attribute '__getitem__'
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: insert, replace
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: insert, replace
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: insert, replace
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: insert, replace
+sliit
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: insert, replace
+run time =  0.90299987793
+sliit
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/non_stream.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: insert, replace
+run time =  0.598000049591
+sliit
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/correcting.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: insert, replace
+
+------- without CUDA streams -------
+run time =  0.904000043869
+sliit
+run time =  0.293999910355
+as
+run time =  2.40700006485
+accredited
+run time =  0.296000003815
+as
+run time =  1.01300001144
+degree
+run time =  1.60199999809
+awarding
+run time =  1.98699998856
+institute
+run time =  0.78200006485
+under
+run time =  0.453999996185
+the
+run time =  3.46899986267
+universities
+run time =  0.4390001297
+act
+run time =  0.308000087738
+of
+run time =  0.436999797821
+sri
+run time =  0.78200006485
+lanka
+
+ input  :  slit is accredited as digree awarding institute under the univercities act of sri lanka
+
+ output :  sliit as accredited as degree awarding institute under the universities act of sri lanka
+
+
+total time for parallel :  15.1740000248
+
+------- with CUDA streams -------
+run time =  0.0
+sliit
+run time =  0.0
+as
+run time =  0.0159997940063
+accredited
+run time =  0.0
+as
+run time =  0.0
+degree
+run time =  0.0
+awarding
+run time =  0.0160000324249
+institute
+run time =  0.0160000324249
+under
+run time =  0.0160000324249
+the
+run time =  0.00300002098083
+universities
+run time =  0.0
+act
+run time =  0.0
+of
+run time =  0.0
+sri
+run time =  0.0
+lanka
+
+ input  :  slit is accredited as digree awarding institute under the univercities act of sri lanka
+
+ output :  sliit as accredited as degree awarding institute under the universities act of sri lanka
+
+
+total time for parallel :  0.066999912262
+
+
+>>> 

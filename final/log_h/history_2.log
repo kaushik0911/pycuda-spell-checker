@@ -1,0 +1,66 @@
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/correcting.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: main, insert, replace
+run time =  0.00599980354309
+sliit
+run time =  0.0
+as
+run time =  0.0
+accredited
+run time =  0.0
+as
+run time =  0.0
+degree
+run time =  0.0159997940063
+awarding
+run time =  0.0
+institute
+run time =  0.0
+under
+run time =  0.0
+the
+run time =  0.0150001049042
+universities
+run time =  0.0
+act
+run time =  0.0149998664856
+of
+run time =  0.0
+sri
+run time =  0.0
+lanka
+total time :  0.0519995689392
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/correcting.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: main, insert, replace
+run time =  0.0149998664856
+sliit
+run time =  0.0
+as
+run time =  0.0
+accredited
+run time =  0.0
+as
+run time =  0.0
+degree
+run time =  0.0160000324249
+awarding
+run time =  0.0150001049042
+institute
+run time =  0.0149998664856
+under
+run time =  0.0
+the
+run time =  0.0
+universities
+run time =  0.00399994850159
+act
+run time =  0.0
+of
+run time =  0.0
+sri
+run time =  0.0
+lanka
+
+
+
+total time :  0.0649998188019
+>>> 

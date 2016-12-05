@@ -1,0 +1,39 @@
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/correcting.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: main, insert, replace
+run time =  0.0160000324249
+sliit
+run time =  0.0
+as
+run time =  0.0159997940063
+accredited
+run time =  0.0150001049042
+as
+run time =  0.00600004196167
+degree
+run time =  0.0
+awarding
+run time =  0.0159997940063
+institute
+run time =  0.0
+under
+run time =  0.0
+the
+run time =  0.0149998664856
+universities
+run time =  0.0
+act
+run time =  0.0
+of
+run time =  0.0150001049042
+sri
+run time =  0.0
+lanka
+
+
+ input  :  slit is accredited as digree awarding institute under the univercities act of sri lanka
+
+ output :  sliit as accredited as degree awarding institute under the universities act of sri lanka
+
+
+total time :  0.0989997386932
+>>> 

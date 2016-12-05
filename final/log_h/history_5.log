@@ -1,0 +1,78 @@
+>>> runfile('C:/Users/Rexxar/Downloads/Shamantha/final/correcting.py', wdir='C:/Users/Rexxar/Downloads/Shamantha/final')
+Reloaded modules: sequential, main, insert, replace, non_stream
+
+------- without CUDA streams -------
+run time =  0.896999835968
+sliit
+run time =  0.304000139236
+as
+run time =  2.38999986649
+accredited
+run time =  0.308000087738
+as
+run time =  1.0039999485
+degree
+run time =  1.59500002861
+awarding
+run time =  1.97099995613
+institute
+run time =  0.782999992371
+under
+run time =  0.43799996376
+the
+run time =  3.47200012207
+universities
+run time =  0.43799996376
+act
+run time =  0.296999931335
+of
+run time =  0.438000202179
+sri
+run time =  0.783999919891
+lanka
+
+input  :  slit is accredited as digree awarding institute under the univercities act of sri lanka
+
+output :  sliit as accredited as degree awarding institute under the universities act of sri lanka
+
+
+total time for parallel ( without streams ) :  15.118999958
+
+------- with CUDA streams -------
+run time =  0.0160000324249
+sliit
+run time =  0.0
+as
+run time =  0.0
+accredited
+run time =  0.0
+as
+run time =  0.0160000324249
+degree
+run time =  0.0150001049042
+awarding
+run time =  0.0149998664856
+institute
+run time =  0.0
+under
+run time =  0.0
+the
+run time =  0.0160000324249
+universities
+run time =  0.0
+act
+run time =  0.0
+of
+run time =  0.0
+sri
+run time =  0.00499987602234
+lanka
+
+input  :  slit is accredited as digree awarding institute under the univercities act of sri lanka
+
+output :  sliit as accredited as degree awarding institute under the universities act of sri lanka
+
+
+total time for parallel ( with streams ) :  0.0829999446869
+
+>>> 
